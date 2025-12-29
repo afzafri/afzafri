@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Afif's github stats](https://github-readme-stats-brown-two-46.vercel.app/api?username=afzafri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+
+![Top Langs](https://github-readme-stats-brown-two-46.vercel.app/api/top-langs/?username=afzafri)
